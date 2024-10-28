@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETLSakilaDW", "ETLSakilaDW\ETLSakilaDW.dtproj", "{4256B5F3-1787-4357-87D4-5BA128A81DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4256B5F3-1787-4357-87D4-5BA128A81DB7}.Development|Default.ActiveCfg = Development
+		{4256B5F3-1787-4357-87D4-5BA128A81DB7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B25F8D-853E-4E90-A128-8824E200E6C3}
+	EndGlobalSection
+EndGlobal
